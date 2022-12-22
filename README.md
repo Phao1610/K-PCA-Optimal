@@ -52,7 +52,7 @@
     
 - KFold = 5, F1_score
 
-        ![kfold](https://user-images.githubusercontent.com/106755542/209177542-172bd288-bb45-4cad-a44f-1970429a6756.png)
+    ![Image](https://user-images.githubusercontent.com/106755542/209177542-172bd288-bb45-4cad-a44f-1970429a6756.png)
     
 - Demo
 
