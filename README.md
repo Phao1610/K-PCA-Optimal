@@ -50,6 +50,10 @@
 
     In this tutorial, we’ll build an example app with Streamlit in Python. You’ll be able to use the common elements and commands from Streamlit and expand to others on your own!
     
+- KFold = 5, F1_score
+
+        ![kfold](https://user-images.githubusercontent.com/106755542/209177542-172bd288-bb45-4cad-a44f-1970429a6756.png)
+    
 - Demo
 
         Step 1: pip install streamlit
