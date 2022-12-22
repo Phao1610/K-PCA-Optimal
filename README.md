@@ -27,7 +27,9 @@
         Step 3: Compute the eigenvectors and eigenvalues of the covariance matrix to identify the principal components
         Step 4: Create a feature vector to decide which principal components to keep
         Step 5: Recast the data along the principal components axes
-  - KFold
+        
+- KFold
+    
     To evaluate the performance of a model on a dataset, we need to measure how well the predictions made by the model match the observed data.
 
     One commonly used method for doing this is known as k-fold cross-validation, which uses the following approach:
